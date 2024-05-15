@@ -1,3 +1,22 @@
 p{
     color: red;
 }
+#image1{
+    width: 3vw;
+}
+#img{
+    height: 45vw;
+}
+#img2{
+    height: 45vw;
+    width: 100%;
+}
+#img3{
+    height: 45vw;
+    width: 100%;
+}
+section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
